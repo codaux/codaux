@@ -1,5 +1,21 @@
-  ## Hi there 👋
-I'm Reza
+<div align="center">
+
+### Reza Samani
+
+</div>
+
+---
+
+Designer who builds.
+
+Design × Code × Automation × Weird Ideas
+
+I build tools that remove boring work, fix broken workflows,
+and occasionally exist simply because I wondered:
+
+“Why doesn't this already exist?”
+
+
 
 - 🔭 I’m currently working on a bulk image edit app for a company.
 - 🌱 I’m currently learning react.
