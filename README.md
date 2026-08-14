@@ -7,3 +7,12 @@ I'm Reza
 - 💬 Ask me about Graphic Design!
 - 📫 How to reach me: [info@rezasamani.ir](mailto:info@rezasamani.ir)
 - ⚡ Fun fact: I start projects with zero knowledge :)
+
+
+<div align="center">
+
+design → code → automate → repeat
+
+[Website](https://rezasamani.ir/) · [LinkedIn](https://www.linkedin.com/in/rezasamani/)
+
+</div>
