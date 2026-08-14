@@ -27,8 +27,6 @@ and occasionally exist simply because I wondered:
 
 <div align="center">
 
-design → code → automate → repeat
-
 [Website](https://rezasamani.ir/) · [LinkedIn](https://www.linkedin.com/in/rezasamani/)
 
 </div>
